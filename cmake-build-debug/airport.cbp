@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="airport"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppUnitLite">
+				<Option output="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/CppUnitLite" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 CppUnitLite"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CppUnitLite/fast">
+				<Option output="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/CppUnitLite" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 CppUnitLite/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/charbo/Documents/WU/CPP/Classe1/code/airport/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Airport.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Airport.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Client.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Client.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Failure.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Failure.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Main.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Plane.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Plane.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Reservation.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Reservation.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Test.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/Test.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestAirport.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestHarness.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestRegistry.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestRegistry.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestResult.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/TestResult.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/User.cpp">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/User.h">
+			<Option target="CppUnitLite"/>
+		</Unit>
+		<Unit filename="/Users/charbo/Documents/WU/CPP/Classe1/code/airport/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
